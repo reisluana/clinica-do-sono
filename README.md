@@ -41,7 +41,7 @@ Analisar detalhadamente o perfil dos pacientes da clínica, focando nos seus há
 
 ## Links importantes
 [Apresentação (Canva)](https://www.canva.com/design/DAGHITfe2GI/nfBRkOEWhC7we2GQ7xK-FA/view?utm_content=DAGHITfe2GI&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
-[Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWFhOGEtMDZmMS00MTU2LTg0Y2EtY2EwYzM3NjBmYzg3IiwidCI6IjY2YzMzY2UxLTFkN2ItNDA3ZC1iYzBmLTUyOGNjY2ZlMDBjZiJ9)  
+[Dashboards (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiNWJiMWFhOGEtMDZmMS00MTU2LTg0Y2EtY2EwYzM3NjBmYzg3IiwidCI6IjY2YzMzY2UxLTFkN2ItNDA3ZC1iYzBmLTUyOGNjY2ZlMDBjZiJ9)  
 [ETL (Pandas - Colab)](https://colab.research.google.com/drive/17hv4E3p47wVm4NNAXGiEtYAuOUMll9ri?usp=sharing)  
 [Fonte do conjunto de dados (Kaggle)](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data)
 
