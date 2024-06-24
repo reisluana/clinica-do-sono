@@ -1,5 +1,5 @@
 # Saúde, hábitos de sono e estilo de vida: Uma análise sobre saúde do sono
-### Projeto realizado para a "Clínica do Sono" durante a formação de Análise de Dados da SoulCode Academy
+Projeto realizado para a "Clínica do Sono" durante a formação de Analista de Dados e Dashboards da SoulCode Academy
 
 ## Objetivo
 Analisar detalhadamente o perfil dos pacientes da clínica, focando nos seus hábitos de sono, estilo de vida e níveis de atividade física. Através dessa análise, identificar padrões e fatores que possam estar influenciando a qualidade do sono e o bem-estar geral dos pacientes.
