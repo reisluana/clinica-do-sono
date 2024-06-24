@@ -28,7 +28,7 @@ Analisar detalhadamente o perfil dos pacientes da clínica, focando nos seus há
 
 - Existe relação entre níveis de atividade física e qualidade do sono?
 
-## Ferramentas utilizadas no processo de ETL:
+## Ferramentas utilizadas no processo de ETL
 **Extração:** Google Cloud Storage.  
 **Transformação:** Google Colaboratory, utilizando a linguagem Python/Pandas.  
 **Carregamento dos dados:** Google Cloud Storage e BigQuery.  
